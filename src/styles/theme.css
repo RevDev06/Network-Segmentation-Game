@@ -1,0 +1,40 @@
+:root {
+  --background: #101413;
+  --foreground: #e8eeeb;
+  --card: #171c1a;
+  --card-foreground: #e8eeeb;
+  --primary: #b1ed87;
+  --primary-foreground: #16220e;
+  --secondary: #242c27;
+  --secondary-foreground: #e8eeeb;
+  --muted: #202722;
+  --muted-foreground: #8d9992;
+  --accent: #b1ed87;
+  --accent-foreground: #16220e;
+  --destructive: #ecad83;
+  --border: #2b332e;
+  --input: #2b332e;
+  --ring: #b1ed87;
+  --radius: 0.75rem;
+}
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --radius-lg: var(--radius);
+  --font-sans: 'DM Sans', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+}

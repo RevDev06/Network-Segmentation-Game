@@ -1,0 +1,10 @@
+{
+  "description": "Interactive network segmentation game with 5 progressive levels teaching subnetting concepts visually for students and beginners in networking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
